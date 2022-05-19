@@ -1,4 +1,4 @@
-NestJs / GraphQL / TypeORM / Postgress
+NestJs - Authentication JWT
 ======================================
 ## Description
 This project was to study nestjs and some extra technologies
